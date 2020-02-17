@@ -1,3 +1,4 @@
+# author @shubhamphl
 
 import sys
 class puzzle:
